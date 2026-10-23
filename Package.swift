@@ -41,13 +41,13 @@ let package = Package(
         ),
         .binaryTarget(
             name: "GDTMobSDKBin",
-            url: "https://qzs.gdtimg.com/union/res/ios/sdk/GDTMobSDK_4.16.102_2631b4bfd1cf163e18b9039c1b3ad210.xcframework.zip",
-            checksum: "2d739ab7fa44fdd67001fb0463980383e9ce24ab95fed895685e6a117dd144d4"
+            url: "https://qzs.gdtimg.com/union/res/ios/sdk/GDTMobSDK_4.16.102_284a0e32d316752402b8bb7f3a927883.xcframework.zip",
+            checksum: "e2b18f7feb6a2805544cac49d2e0397e2249eeeba79783b188204e92052d6745"
         ),
         .binaryTarget(
             name: "Tquic",
-            url: "https://qzs.gdtimg.com/union/res/ios/sdk/Tquic_4.16.102_cfa09eb76c827ec58883a650db4d2c33.xcframework.zip",
-            checksum: "a2b5a2fe28f88477cb9a05f88d8f2d2d370abe69bbce889f2f53f36a89f434f4"
+            url: "https://qzs.gdtimg.com/union/res/ios/sdk/Tquic_4.16.102_7bfca369b77c85de88d576d6a3c1d1f9.xcframework.zip",
+            checksum: "b93686e24c9e0277cf4adc7f1abf1a800c6657e2899b9ae7afea59d33df94568"
         )
     ]
 )
